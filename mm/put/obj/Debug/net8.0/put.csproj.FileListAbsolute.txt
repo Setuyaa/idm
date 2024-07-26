@@ -1,0 +1,14 @@
+C:\Users\a.deshchits\Desktop\api\mm\put\bin\Debug\net8.0\put.exe
+C:\Users\a.deshchits\Desktop\api\mm\put\bin\Debug\net8.0\put.deps.json
+C:\Users\a.deshchits\Desktop\api\mm\put\bin\Debug\net8.0\put.runtimeconfig.json
+C:\Users\a.deshchits\Desktop\api\mm\put\bin\Debug\net8.0\put.dll
+C:\Users\a.deshchits\Desktop\api\mm\put\bin\Debug\net8.0\put.pdb
+C:\Users\a.deshchits\Desktop\api\mm\put\obj\Debug\net8.0\put.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.deshchits\Desktop\api\mm\put\obj\Debug\net8.0\put.AssemblyInfoInputs.cache
+C:\Users\a.deshchits\Desktop\api\mm\put\obj\Debug\net8.0\put.AssemblyInfo.cs
+C:\Users\a.deshchits\Desktop\api\mm\put\obj\Debug\net8.0\put.csproj.CoreCompileInputs.cache
+C:\Users\a.deshchits\Desktop\api\mm\put\obj\Debug\net8.0\put.dll
+C:\Users\a.deshchits\Desktop\api\mm\put\obj\Debug\net8.0\refint\put.dll
+C:\Users\a.deshchits\Desktop\api\mm\put\obj\Debug\net8.0\put.pdb
+C:\Users\a.deshchits\Desktop\api\mm\put\obj\Debug\net8.0\put.genruntimeconfig.cache
+C:\Users\a.deshchits\Desktop\api\mm\put\obj\Debug\net8.0\ref\put.dll

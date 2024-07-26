@@ -1,0 +1,14 @@
+C:\Users\a.deshchits\Desktop\api\mm\delete\bin\Debug\net8.0\delete.exe
+C:\Users\a.deshchits\Desktop\api\mm\delete\bin\Debug\net8.0\delete.deps.json
+C:\Users\a.deshchits\Desktop\api\mm\delete\bin\Debug\net8.0\delete.runtimeconfig.json
+C:\Users\a.deshchits\Desktop\api\mm\delete\bin\Debug\net8.0\delete.dll
+C:\Users\a.deshchits\Desktop\api\mm\delete\bin\Debug\net8.0\delete.pdb
+C:\Users\a.deshchits\Desktop\api\mm\delete\obj\Debug\net8.0\delete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.deshchits\Desktop\api\mm\delete\obj\Debug\net8.0\delete.AssemblyInfoInputs.cache
+C:\Users\a.deshchits\Desktop\api\mm\delete\obj\Debug\net8.0\delete.AssemblyInfo.cs
+C:\Users\a.deshchits\Desktop\api\mm\delete\obj\Debug\net8.0\delete.csproj.CoreCompileInputs.cache
+C:\Users\a.deshchits\Desktop\api\mm\delete\obj\Debug\net8.0\delete.dll
+C:\Users\a.deshchits\Desktop\api\mm\delete\obj\Debug\net8.0\refint\delete.dll
+C:\Users\a.deshchits\Desktop\api\mm\delete\obj\Debug\net8.0\delete.pdb
+C:\Users\a.deshchits\Desktop\api\mm\delete\obj\Debug\net8.0\delete.genruntimeconfig.cache
+C:\Users\a.deshchits\Desktop\api\mm\delete\obj\Debug\net8.0\ref\delete.dll

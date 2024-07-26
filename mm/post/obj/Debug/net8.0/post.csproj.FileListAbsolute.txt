@@ -1,0 +1,14 @@
+C:\Users\a.deshchits\Desktop\api\mm\post\bin\Debug\net8.0\post.exe
+C:\Users\a.deshchits\Desktop\api\mm\post\bin\Debug\net8.0\post.deps.json
+C:\Users\a.deshchits\Desktop\api\mm\post\bin\Debug\net8.0\post.runtimeconfig.json
+C:\Users\a.deshchits\Desktop\api\mm\post\bin\Debug\net8.0\post.dll
+C:\Users\a.deshchits\Desktop\api\mm\post\bin\Debug\net8.0\post.pdb
+C:\Users\a.deshchits\Desktop\api\mm\post\obj\Debug\net8.0\post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.deshchits\Desktop\api\mm\post\obj\Debug\net8.0\post.AssemblyInfoInputs.cache
+C:\Users\a.deshchits\Desktop\api\mm\post\obj\Debug\net8.0\post.AssemblyInfo.cs
+C:\Users\a.deshchits\Desktop\api\mm\post\obj\Debug\net8.0\post.csproj.CoreCompileInputs.cache
+C:\Users\a.deshchits\Desktop\api\mm\post\obj\Debug\net8.0\post.dll
+C:\Users\a.deshchits\Desktop\api\mm\post\obj\Debug\net8.0\refint\post.dll
+C:\Users\a.deshchits\Desktop\api\mm\post\obj\Debug\net8.0\post.pdb
+C:\Users\a.deshchits\Desktop\api\mm\post\obj\Debug\net8.0\post.genruntimeconfig.cache
+C:\Users\a.deshchits\Desktop\api\mm\post\obj\Debug\net8.0\ref\post.dll

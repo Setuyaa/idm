@@ -1,0 +1,14 @@
+C:\Users\a.deshchits\Desktop\api\mm\get\bin\Debug\net8.0\get.exe
+C:\Users\a.deshchits\Desktop\api\mm\get\bin\Debug\net8.0\get.deps.json
+C:\Users\a.deshchits\Desktop\api\mm\get\bin\Debug\net8.0\get.runtimeconfig.json
+C:\Users\a.deshchits\Desktop\api\mm\get\bin\Debug\net8.0\get.dll
+C:\Users\a.deshchits\Desktop\api\mm\get\bin\Debug\net8.0\get.pdb
+C:\Users\a.deshchits\Desktop\api\mm\get\obj\Debug\net8.0\get.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.deshchits\Desktop\api\mm\get\obj\Debug\net8.0\get.AssemblyInfoInputs.cache
+C:\Users\a.deshchits\Desktop\api\mm\get\obj\Debug\net8.0\get.AssemblyInfo.cs
+C:\Users\a.deshchits\Desktop\api\mm\get\obj\Debug\net8.0\get.csproj.CoreCompileInputs.cache
+C:\Users\a.deshchits\Desktop\api\mm\get\obj\Debug\net8.0\get.dll
+C:\Users\a.deshchits\Desktop\api\mm\get\obj\Debug\net8.0\refint\get.dll
+C:\Users\a.deshchits\Desktop\api\mm\get\obj\Debug\net8.0\get.pdb
+C:\Users\a.deshchits\Desktop\api\mm\get\obj\Debug\net8.0\get.genruntimeconfig.cache
+C:\Users\a.deshchits\Desktop\api\mm\get\obj\Debug\net8.0\ref\get.dll
